@@ -1,0 +1,14 @@
+# MySQL root password
+MYSQL_ROOT_PASSWORD=MYSQL_ROOT_PASSWORD_NEED_TO_CHANGE
+# Bitrix DB
+MYSQL_DATABASE=sitemanager
+# Bitrix User
+MYSQL_USER=bitrix
+# Bitrix paswword
+MYSQL_PASSWORD=MYSQL_BITRIX_PASSWORD
+# MySQL server
+MYSQL_SERVER=mydb
+# PUSH_SERVER_KEY
+PUSH_SERVER_KEY=PUSH_SERVER_SECURITY_KEY
+# Bitrix Installed archive
+BX_ARCHIVE=https://repos.1c-bitrix.ru/yum-testing/bx_source.tar.gz

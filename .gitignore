@@ -1,0 +1,7 @@
+www/
+logs/
+archive/
+db/
+var/
+push/files/bx-push-server/
+.bitrix.env
